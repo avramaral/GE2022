@@ -1,0 +1,32 @@
+\begin{thebibliography}{}
+
+\bibitem[Diggle, 2006]{diggle2006spatio}
+Diggle, P.~J. (2006).
+\newblock Spatio-temporal point processes: methods and applications.
+\newblock {\em Monographs on Statistics and Applied Probability}, 107:1.
+
+\bibitem[Kermack and McKendrick, 1927]{kermack1927contribution}
+Kermack, W.~O. and McKendrick, A.~G. (1927).
+\newblock A contribution to the mathematical theory of epidemics.
+\newblock {\em Proceedings of the royal society of london. Series A, Containing
+  papers of a mathematical and physical character}, 115(772):700--721.
+
+\bibitem[Kim and Kim, 2016]{kim2016new}
+Kim, S. and Kim, H. (2016).
+\newblock A new metric of absolute percentage error for intermittent demand
+  forecasts.
+\newblock {\em International Journal of Forecasting}, 32(3):669--679.
+
+\bibitem[Rue et~al., 2009]{rue2009approximate}
+Rue, H., Martino, S., and Chopin, N. (2009).
+\newblock Approximate bayesian inference for latent gaussian models by using
+  integrated nested laplace approximations.
+\newblock {\em Journal of the royal statistical society: Series b (statistical
+  methodology)}, 71(2):319--392.
+
+\bibitem[{Stan Development Team}, 2021]{rstanpackage}
+{Stan Development Team} (2021).
+\newblock {RStan}: the {R} interface to {Stan}.
+\newblock R package version 2.21.3.
+
+\end{thebibliography}
